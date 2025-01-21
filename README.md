@@ -1,4 +1,4 @@
-# srilanka
+# Srilanka
 
 The `srilanka` package provides data and utility functions to work with information about Sri Lanka, including its provinces, districts, cities, and divisional secretariats.
 
