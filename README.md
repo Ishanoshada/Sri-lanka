@@ -65,3 +65,6 @@ cities = SriLanka.get_cities_by_district_name("Colombo") -->
 ## License
 
 MIT License - see [LICENSE](LICENSE)
+
+
+**Repository Views** ![Views](https://profile-counter.glitch.me/srilankap/count.svg)
